@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yusuftaskiran753-dot.github.io/-santiye-agi/sitemap.xml
