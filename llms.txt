@@ -1,0 +1,27 @@
+# Yusuf Taşkıran Uygulamaları
+
+> Sivas, Türkiye'de Yusuf Taşkıran tarafından geliştirilen iki Türkçe mobil uygulamanın resmî sitesi: Şantiye Ağı (yük, iş makinesi, malzeme ve operatör ilanları) ve Asfaltik (asfalt ve yol yapım şantiyeleri için saha yönetimi). İletişim: yusuftaskiran753@gmail.com
+
+## Uygulamalar
+
+- [Şantiye Ağı](https://yusuftaskiran753-dot.github.io/-santiye-agi/): Yük, iş makinesi, inşaat malzemesi ve operatör/personel ilanlarını tek yerde toplayan, Türkiye'nin 81 ilinde ücretsiz, komisyonsuz ilan ve buluşma uygulaması. Boş dönüş yükü eşleştirme, iş makinesi kiralama, beton-agrega-stabilize-asfalt fiyat karşılaştırma, operatör ilanları, dijital anlaşma kaydı, hafriyat planlama, süreli canlı konum ve isteğe bağlı yapay zekâ asistanı. Android ve iOS; mağaza yayını yakında.
+- [Şantiye Ağı – ayrıntılı özet (Markdown)](https://yusuftaskiran753-dot.github.io/-santiye-agi/llms-full.txt): Özellikler, fiyatlandırma, gizlilik özeti, sınırlar ve 17 sık sorulan soru; yapay zekâ asistanları için tek dosyada.
+- [Asfaltik](https://yusuftaskiran753-dot.github.io/): Şantiye şefleri, saha mühendisleri ve asfalt ekipleri için saha yönetim uygulaması: GPS ölçüm, asfalt tonaj ve metraj hesabı, kamyon sefer takibi, sıcaklık ve silindiraj kaydı, km ve eğim hesabı, şantiye hava durumu, yapay zekâ saha asistanı, PDF/Excel rapor, bulut yedek ve ekip paylaşımı. Türkçe, İngilizce, Rusça ve Arapça. iOS ve Android.
+
+## Şantiye Ağı – yasal ve destek
+
+- [Kullanım Koşulları](https://yusuftaskiran753-dot.github.io/-santiye-agi/#kullanim-kosullari)
+- [Gizlilik Politikası](https://yusuftaskiran753-dot.github.io/-santiye-agi/#gizlilik)
+- [KVKK Aydınlatma Metni](https://yusuftaskiran753-dot.github.io/-santiye-agi/#kvkk)
+- [Hesap ve Veri Silme](https://yusuftaskiran753-dot.github.io/-santiye-agi/#hesap-silme)
+
+## Asfaltik – yasal ve destek
+
+- [Gizlilik Politikası](https://yusuftaskiran753-dot.github.io/privacy.html)
+- [Hesap Silme](https://yusuftaskiran753-dot.github.io/delete-account.html)
+- [App Store](https://apps.apple.com/tr/app/asfaltik/id6821031911)
+- [Google Play](https://play.google.com/store/apps/details?id=com.asfaltik.ai)
+
+## Optional
+
+- [Site haritası](https://yusuftaskiran753-dot.github.io/sitemap.xml)

@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    color-scheme: light;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+  body {
+    @apply bg-white text-ink antialiased;
+    font-size: 1.0625rem;
+    line-height: 1.65;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-black tracking-tight text-ink;
+    line-height: 1.12;
+    text-wrap: balance;
+  }
+  a {
+    @apply underline-offset-4;
+  }
+  :focus-visible {
+    outline: 3px solid #111111;
+    outline-offset: 2px;
+    box-shadow: 0 0 0 6px #ffc400;
+  }
+  summary {
+    list-style: none;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  [id] {
+    scroll-margin-top: 5.5rem;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-page px-4 sm:px-6;
+  }
+  .section {
+    @apply py-14 sm:py-20;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-ink px-5 py-3 text-base font-extrabold no-underline transition;
+    min-height: 3rem;
+  }
+  .btn-primary {
+    @apply bg-brand text-ink shadow-block-sm hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-none;
+  }
+  .btn-dark {
+    @apply bg-ink text-white hover:bg-ink-2;
+  }
+  .btn-outline {
+    @apply bg-white text-ink hover:bg-brand;
+  }
+  .btn-sm {
+    @apply px-4 py-2 text-sm;
+    min-height: 2.5rem;
+  }
+  .eyebrow {
+    @apply inline-block bg-ink px-2.5 py-1 text-xs font-extrabold uppercase tracking-widest text-brand;
+  }
+  .eyebrow-light {
+    @apply inline-block bg-brand px-2.5 py-1 text-xs font-extrabold uppercase tracking-widest text-ink;
+  }
+  .hazard {
+    background: repeating-linear-gradient(-45deg, #ffc400 0 12px, #111111 12px 24px);
+  }
+  .card {
+    @apply border-2 border-ink bg-white p-5 sm:p-6;
+  }
+  .field-label {
+    @apply mb-1 block text-xs font-extrabold uppercase tracking-wider text-ink-3;
+  }
+  .field {
+    @apply w-full border-2 border-ink bg-white px-3 py-3 text-base font-semibold text-ink;
+    min-height: 3rem;
+    border-radius: 0;
+  }
+  .badge {
+    @apply inline-flex items-center gap-1.5 border-2 border-ink bg-white px-2.5 py-1 text-xs font-extrabold uppercase tracking-wide text-ink;
+  }
+  .badge-brand {
+    @apply border-ink bg-brand text-ink;
+  }
+  .link-arrow {
+    @apply inline-flex items-center gap-1 font-extrabold text-ink underline decoration-brand decoration-4 underline-offset-4 hover:bg-brand;
+  }
+
+  /* Uzun yasal/açıklayıcı metinler */
+  .legal-doc {
+    @apply text-ink-3;
+  }
+  .legal-doc h2 {
+    @apply mb-3 mt-10 text-2xl text-ink;
+  }
+  .legal-doc p,
+  .legal-doc li {
+    @apply text-ink-3;
+  }
+  .legal-doc p {
+    @apply my-3;
+  }
+  .legal-doc ul {
+    @apply my-3 list-disc pl-6;
+  }
+  .legal-doc ol {
+    @apply my-3 list-decimal pl-6;
+  }
+  .legal-doc li {
+    @apply my-1;
+  }
+  .legal-doc strong {
+    @apply text-ink;
+  }
+  .legal-doc a {
+    @apply font-bold text-ink underline decoration-brand decoration-2;
+  }
+  .legal-doc .table-wrap {
+    @apply my-4 overflow-x-auto border-2 border-ink;
+  }
+  .legal-doc table {
+    @apply w-full border-collapse text-sm;
+    min-width: 36rem;
+  }
+  .legal-doc th,
+  .legal-doc td {
+    @apply border border-steel-300 px-3 py-2 text-left align-top;
+  }
+  .legal-doc th {
+    @apply bg-brand-soft text-ink;
+  }
+}

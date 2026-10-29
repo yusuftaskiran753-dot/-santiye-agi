@@ -1,0 +1,44 @@
+{
+  "name": "santiye-agi-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Şantiye Ağı tanıtım sitesi: Next.js 14 (App Router) + TypeScript + Tailwind CSS",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "verify": "node scripts/verify-content.mjs",
+    "verify:schema": "tsx scripts/check-jsonld-vocab.ts",
+    "check": "npm run typecheck && npm run lint && npm run build && npm run verify && npm run verify:schema",
+    "export:iis": "node scripts/export-iis.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "react": "19.1.10",
+    "react-dom": "19.1.10",
+    "server-only": "0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.43",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "autoprefixer": "10.6.2",
+    "eslint": "8.57.1",
+    "eslint-config-next": "15.5.28",
+    "postcss": "8.5.32",
+    "schema-dts": "2.1.0",
+    "tailwindcss": "3.4.19",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=18.18"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "8.5.32"
+    }
+  }
+}
