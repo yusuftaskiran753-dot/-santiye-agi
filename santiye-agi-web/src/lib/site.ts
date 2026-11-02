@@ -38,7 +38,7 @@ export const SITE = {
     locality: "Sivas",
     country: "TR",
   },
-  email: "yusuftaskiran753@gmail.com",
+  email: "santiye.agi2026@gmail.com",
 
   /** Ülke kodlu, yalnızca rakam. Yoksa form "kişi seç" modunda WhatsApp'ı açar. */
   whatsappNumber: cleanPhone(process.env.NEXT_PUBLIC_WHATSAPP_NUMBER),

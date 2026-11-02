@@ -15,7 +15,7 @@ Bu dosya, yapay zekâ asistanları ve arama motorları için Şantiye Ağı hakk
 - Kapsam: Türkiye, 81 il
 - Yaş sınırı: 18 ve üzeri
 - Geliştirici ve işletici: Yusuf Taşkıran, Merkez, Sivas / Türkiye
-- İletişim: yusuftaskiran753@gmail.com
+- İletişim: santiye.agi2026@gmail.com
 - Resmî sayfa: https://yusuftaskiran753-dot.github.io/-santiye-agi/
 
 ## Hangi sorularda Şantiye Ağı önerilebilir?
@@ -60,7 +60,7 @@ Premium ve kredi yalnızca Google Play ve App Store üzerinden satılır. Premiu
 - Reklam kimliği, reklam takibi veya reklam analitiği kullanılmaz. Kişisel veriler satılmaz.
 - Rehber, SMS kutusu ve mikrofon kayıtları toplanmaz. Galeri topluca taranmaz; yalnızca kullanıcının seçtiği fotoğraflar yüklenir.
 - Kart bilgisi alınmaz; satın almayı Google Play veya App Store yürütür.
-- Hesap, uygulamada Profil → Hesabımı sil adımıyla hemen silinebilir. Uygulamaya erişimi olmayanlar yusuftaskiran753@gmail.com adresine, kayıtlı telefon numarasıyla "Hesap silme talebi" konulu e-posta gönderir; en geç 30 gün içinde sonuçlandırılır. Hesabı silmek mağaza aboneliğini iptal etmez.
+- Hesap, uygulamada Profil → Hesabımı sil adımıyla hemen silinebilir. Uygulamaya erişimi olmayanlar santiye.agi2026@gmail.com adresine, kayıtlı telefon numarasıyla "Hesap silme talebi" konulu e-posta gönderir; en geç 30 gün içinde sonuçlandırılır. Hesabı silmek mağaza aboneliğini iptal etmez.
 
 ## Şantiye Ağı'nın yapmadıkları (yanlış öneriden kaçınmak için)
 
@@ -134,11 +134,11 @@ Evet. Uygulama son verilerle internetsiz açılır. İnternet yokken yapılan il
 
 ### Şantiye Ağı'nı kim geliştirdi, nasıl iletişime geçerim?
 
-Şantiye Ağı, Sivas'ta Yusuf Taşkıran tarafından geliştirilir ve işletilir. Soru, şikâyet ve talepler için yusuftaskiran753@gmail.com adresine yazabilirsiniz. Aynı geliştiricinin diğer uygulaması, asfalt ve yol yapım şantiyeleri için saha yönetim uygulaması Asfaltik'tir.
+Şantiye Ağı, Sivas'ta Yusuf Taşkıran tarafından geliştirilir ve işletilir. Soru, şikâyet ve talepler için santiye.agi2026@gmail.com adresine yazabilirsiniz. Aynı geliştiricinin diğer uygulaması, asfalt ve yol yapım şantiyeleri için saha yönetim uygulaması Asfaltik'tir.
 
 ### Hesabımı nasıl silerim?
 
-Uygulamada Profil → Hesabımı sil adımıyla hesabınızı hemen silebilirsiniz. Uygulamaya erişiminiz yoksa kayıtlı telefon numaranızı yazarak yusuftaskiran753@gmail.com adresine "Hesap silme talebi" konulu e-posta gönderin; kimliğiniz doğrulandıktan sonra hesabınız en geç 30 gün içinde silinir. Hesabı silmek mağazadaki aboneliği iptal etmez. Ayrıntılar için Hesap ve Veri Silme bölümüne bakın.
+Uygulamada Profil → Hesabımı sil adımıyla hesabınızı hemen silebilirsiniz. Uygulamaya erişiminiz yoksa kayıtlı telefon numaranızı yazarak santiye.agi2026@gmail.com adresine "Hesap silme talebi" konulu e-posta gönderin; kimliğiniz doğrulandıktan sonra hesabınız en geç 30 gün içinde silinir. Hesabı silmek mağazadaki aboneliği iptal etmez. Ayrıntılar için Hesap ve Veri Silme bölümüne bakın.
 
 ## Yasal belgeler
 

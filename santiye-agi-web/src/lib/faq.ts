@@ -69,7 +69,7 @@ export const FAQS: Record<string, Faq> = {
   },
   kimin: {
     q: "Şantiye Ağı'nı kim geliştirdi ve nasıl iletişime geçerim?",
-    a: "Şantiye Ağı, Sivas'ta Yusuf Taşkıran tarafından geliştirilir ve işletilir. Soru, şikâyet ve talepler için yusuftaskiran753@gmail.com adresine yazabilirsiniz.",
+    a: "Şantiye Ağı, Sivas'ta Yusuf Taşkıran tarafından geliştirilir ve işletilir. Soru, şikâyet ve talepler için santiye.agi2026@gmail.com adresine yazabilirsiniz.",
   },
 };
 

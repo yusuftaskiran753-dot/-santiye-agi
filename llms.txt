@@ -1,6 +1,6 @@
 # Yusuf Taşkıran Uygulamaları
 
-> Sivas, Türkiye'de Yusuf Taşkıran tarafından geliştirilen iki Türkçe mobil uygulamanın resmî sitesi: Şantiye Ağı (yük, iş makinesi, malzeme ve operatör ilanları) ve Asfaltik (asfalt ve yol yapım şantiyeleri için saha yönetimi). İletişim: yusuftaskiran753@gmail.com
+> Sivas, Türkiye'de Yusuf Taşkıran tarafından geliştirilen iki Türkçe mobil uygulamanın resmî sitesi: Şantiye Ağı (yük, iş makinesi, malzeme ve operatör ilanları) ve Asfaltik (asfalt ve yol yapım şantiyeleri için saha yönetimi). İletişim: santiye.agi2026@gmail.com
 
 ## Uygulamalar
 
